@@ -11,4 +11,4 @@ function Comment() {
 
 export default Article;
 
-//The minimum requirement for a React component is that it must be a function that starts with a capital letter and returns JSX.
+//The minimum requirement for a React component is that it must be a function that starts with a capital letter and returns JSX.#
